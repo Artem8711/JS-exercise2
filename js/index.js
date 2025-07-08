@@ -45,7 +45,7 @@ console.log(`До оплати: ${finalPrice.toFixed(2)} грн`);
 /////////////////////////
 
 //1
-const dayNumber = parseInt(prompt('Введіть номер дня тижня (1-7):'));
+/* const dayNumber = parseInt(prompt('Введіть номер дня тижня (1-7):'));
 let dayName;
 
 switch (dayNumber) {
@@ -74,4 +74,4 @@ switch (dayNumber) {
       dayName = 'дня з таким номером не існує';
 }
 
-alert(dayName);
+alert(dayName); */
